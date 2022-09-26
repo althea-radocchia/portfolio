@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests cats and dogs.
+bio: Research interests in cats and dogs.
 
 #interests:
 #- Artificial Intelligence
