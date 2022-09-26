@@ -29,11 +29,11 @@ content:
     - name: All
       tag: '*'
     - name: Digital Art
-      tag: DA
-    - name: Physical Art
-      tag: PA
+      tag: Digital
+    - name: Paintings
+      tag: Paintings
     - name: Photos
-      tag: PH
+      tag: Photos
 
 design:
   columns: '1'
